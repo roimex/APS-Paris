@@ -2,6 +2,6 @@
 title: "Welcome to APS@Paris"
 ---
 
-Welcome to **APS@Paris** — the local hub for physics students and researchers in the Paris region! This platform connects the Sorbonne University and other Parisian institutions with the American Physical Society community.
+Welcome to **APS@Paris**! This platform connects the Sorbonne University and other Parisian institutions with the American Physical Society (APS) community.
 
 Stay tuned for upcoming events, research highlights, and opportunities to engage with the global physics network. If you're interested in joining our mailing list or participating in future APS activities, feel free to explore the site or reach out via the contact page.
