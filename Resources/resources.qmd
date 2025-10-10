@@ -1,0 +1,47 @@
+---
+title: "Resources"
+---
+ 
+Here you can find key materials, opportunities, and official links from the American Physical Society (APS).
+
+## 🧾 Membership Benefits
+
+Being an APS member gives you access to:
+
+- Subscriptions to leading journals and magazines.
+- Discounted registration for APS conferences.
+- Opportunities for travel grants and international collaboration.
+- Access to APS Career Services and mentorship programs.
+- A global community of over 50,000 physicists.
+
+For more information, visit the [APS Membership page](https://www.aps.org/membership/).
+
+## 📚 APS Publications
+
+APS provides several outstanding resources for staying informed about advances in physics, for example:
+
+- **[Physics Today](https://pubs.aip.org/physicstoday)** — General-interest magazine covering news and features across all fields of physics.  
+- **[Physical Review Letters (PRL)](https://journals.aps.org/prl/)** — One of the most prestigious journals in physics.  
+- **[Physics Magazine](https://physics.aps.org/)** — APS’s online magazine featuring research highlights and accessible summaries of recent publications.  
+
+## ✈️ Travel Grants & Student Fellowships
+
+APS supports student researchers through travel grants, fellowships, and prizes. These programs aim to promote international collaboration and help students attend major APS meetings.
+
+Examples include:
+
+- APS International Travel Awards for Students
+- APS Division-specific travel grants (e.g., DMP, DAMOP)
+- APS Forum on International Physics (FIP) Student Travel Grants
+
+You can explore available opportunities at the [APS Funding & Recognition page](https://www.aps.org/funding-recognition).
+
+## 🔗 Useful Links
+
+| Resource | Description |
+|-----------|--------------|
+| [APS Student Ambassadors](https://www.aps.org/membership/student-ambassadors) | Learn about the ambassador program and connect with student leaders worldwide. |
+| [APS Career Center](https://www.apsphysicsjobs.com/) | Explore job listings, internships, and professional development resources. |
+| [APS Global Physics Summit](https://summit.aps.org/) | One of the largest annual gatherings of physicists — showcasing research across all areas of physics. |
+
+Stay engaged with the APS community and make the most of the opportunities available to you as a student or researcher.

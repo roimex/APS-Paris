@@ -1,0 +1,60 @@
+project:
+  type: website
+
+website:
+  title: "APS@Paris"
+  favicon: APSLogo-RGB-WHTBG.png
+  navbar:
+    logo: APSLogo-RGB-WHTBG.png
+    logo-alt: "APS Logo"
+    right:
+      - text: "Home"
+        href: index.qmd
+      
+      - text: "News"
+        href: News/news.qmd
+
+      - text: "Resources"
+        href: Resources/resources.qmd
+
+      - text: "Contact"
+        href: Contact/contact.qmd
+
+  page-footer:
+#    background: cyan
+#    foreground: white
+    left: |
+      <div style="margin-left: 16em;">© 2025 APS@Paris</div>
+    right: |
+      <div style="margin-right: 2em; text-align: right; white-space: nowrap;">
+        <a href="https://x.com/APSphysics" target="_blank" rel="noopener" style="text-decoration: none; border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="25" style="margin: 0 10px; vertical-align: middle; border: none;">
+        </a>
+        <a href="https://www.youtube.com/user/apsphysics" target="_blank" rel="noopener" style="text-decoration: none; border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="25" style="margin: 0 10px; vertical-align: middle; border: none;">
+        </a>
+        <a href="https://www.facebook.com/apsphysics" target="_blank" rel="noopener" style="text-decoration: none; border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="25" style="margin: 0 10px; vertical-align: middle; border: none;">
+        </a>
+        <a href="https://www.linkedin.com/company/aps-physics/" target="_blank" rel="noopener" style="text-decoration: none; border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="25" style="margin: 0 10px; vertical-align: middle; border: none;">
+        </a>
+        <a href="https://www.instagram.com/aps.physics/" target="_blank" rel="noopener" style="text-decoration: none; border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="25" style="margin: 0 10px; vertical-align: middle; border: none;">
+        </a>
+        <a href="https://www.aps.org/about/wechat" target="_blank" rel="noopener" style="text-decoration: none; border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wechat.svg" width="22" style="margin: 0 10px; vertical-align: middle; border: none;">
+        </a>
+      </div>
+        
+
+format:
+  html:
+    theme:
+      light:
+        - flatly
+        - custom.scss
+      dark:
+        - darkly
+        - custom.scss
+    toc: true
