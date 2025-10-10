@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "News/news.html",
-    "href": "News/news.html",
-    "title": "News",
-    "section": "",
-    "text": "Upcoming"
-  },
-  {
     "objectID": "Resources/resources.html",
     "href": "Resources/resources.html",
     "title": "Resources",
@@ -67,6 +60,13 @@
     "href": "index.html",
     "title": "Welcome to APS@Paris",
     "section": "",
-    "text": "Welcome to APS@Paris — the local hub for physics students and researchers in the Paris region! This platform connects the Sorbonne University and other Parisian institutions with the American Physical Society community.\nStay tuned for upcoming events, research highlights, and opportunities to engage with the global physics network. If you’re interested in joining our mailing list or participating in future APS activities, feel free to explore the site or reach out via the contact page."
+    "text": "Welcome to APS@Paris! This platform connects the Sorbonne University and other Parisian institutions with the American Physical Society (APS) community.\nStay tuned for upcoming events, research highlights, and opportunities to engage with the global physics network. If you’re interested in joining our mailing list or participating in future APS activities, feel free to explore the site or reach out via the contact page."
+  },
+  {
+    "objectID": "News/news.html",
+    "href": "News/news.html",
+    "title": "News",
+    "section": "",
+    "text": "Upcoming"
   }
 ]
