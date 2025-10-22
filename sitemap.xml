@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://roimex.github.io/APS-Paris/Resources/resources.html</loc>
-    <lastmod>2025-10-22T16:27:47.057Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roimex.github.io/APS-Paris/Contact/contact.html</loc>
-    <lastmod>2025-10-22T16:27:47.057Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roimex.github.io/APS-Paris/index.html</loc>
-    <lastmod>2025-10-22T16:27:47.064Z</lastmod>
+    <lastmod>2025-10-22T18:54:15.972Z</lastmod>
   </url>
   <url>
     <loc>https://roimex.github.io/APS-Paris/News/news.html</loc>
-    <lastmod>2025-10-22T16:27:47.057Z</lastmod>
+    <lastmod>2025-10-22T18:54:15.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://roimex.github.io/APS-Paris/index.html</loc>
+    <lastmod>2025-10-22T18:54:15.985Z</lastmod>
+  </url>
+  <url>
+    <loc>https://roimex.github.io/APS-Paris/Contact/contact.html</loc>
+    <lastmod>2025-10-22T18:54:15.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://roimex.github.io/APS-Paris/Connect/connect.html</loc>
+    <lastmod>2025-10-22T18:54:15.966Z</lastmod>
   </url>
 </urlset>
