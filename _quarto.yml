@@ -51,10 +51,9 @@ website:
 format:
   html:
     theme:
-      light:
-        - flatly
-        - custom.scss
-      dark:
-        - darkly
-        - custom.scss
+      - flatly
+      - custom.scss
     toc: true
+    include-in-header:
+      - text: |
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
