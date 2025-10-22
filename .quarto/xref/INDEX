@@ -10,5 +10,8 @@
   },
   "News/news.qmd": {
     "news.html": "4e822e6e"
+  },
+  "Connect/connect.qmd": {
+    "connect.html": "68e7cc9e"
   }
 }

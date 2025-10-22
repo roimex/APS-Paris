@@ -1,52 +1,52 @@
 [
   {
-    "objectID": "News/news.html",
-    "href": "News/news.html",
-    "title": "News",
+    "objectID": "Connect/connect.html",
+    "href": "Connect/connect.html",
+    "title": "APS on Social Media",
     "section": "",
-    "text": "Stay connected with updates from the American Physical Society (APS) on their official social media platforms.\n\n\n\nTweets by APSphysics\n\n\n\n\n\n\n\n\n\n\n\nStay connected with APS on LinkedIn:\n  APS on LinkedIn"
+    "text": "Stay connected with updates from the APS on their official social media platforms."
   },
   {
-    "objectID": "News/news.html#latest-from-aps",
-    "href": "News/news.html#latest-from-aps",
-    "title": "News",
+    "objectID": "Connect/connect.html#x",
+    "href": "Connect/connect.html#x",
+    "title": "APS on Social Media",
+    "section": "X",
+    "text": "X\nTweets by APS"
+  },
+  {
+    "objectID": "Connect/connect.html#linkedin",
+    "href": "Connect/connect.html#linkedin",
+    "title": "APS on Social Media",
+    "section": "LinkedIn",
+    "text": "LinkedIn\n  APS on LinkedIn"
+  },
+  {
+    "objectID": "Connect/connect.html#instagram",
+    "href": "Connect/connect.html#instagram",
+    "title": "APS on Social Media",
+    "section": "Instagram",
+    "text": "Instagram"
+  },
+  {
+    "objectID": "Connect/connect.html#facebook",
+    "href": "Connect/connect.html#facebook",
+    "title": "APS on Social Media",
+    "section": "Facebook",
+    "text": "Facebook"
+  },
+  {
+    "objectID": "Connect/connect.html#youtube",
+    "href": "Connect/connect.html#youtube",
+    "title": "APS on Social Media",
+    "section": "YouTube",
+    "text": "YouTube"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to APS@Paris",
     "section": "",
-    "text": "Stay connected with updates from the American Physical Society (APS) on their official social media platforms.\n\n\n\nTweets by APSphysics\n\n\n\n\n\n\n\n\n\n\n\nStay connected with APS on LinkedIn:\n  APS on LinkedIn"
-  },
-  {
-    "objectID": "Resources/resources.html",
-    "href": "Resources/resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Here you can find key materials, opportunities, and official links from the American Physical Society (APS)."
-  },
-  {
-    "objectID": "Resources/resources.html#membership-benefits",
-    "href": "Resources/resources.html#membership-benefits",
-    "title": "Resources",
-    "section": "🧾 Membership Benefits",
-    "text": "🧾 Membership Benefits\nBeing an APS member gives you access to:\n\nSubscriptions to leading journals and magazines.\nDiscounted registration for APS conferences.\nOpportunities for travel grants and international collaboration.\nAccess to APS Career Services and mentorship programs.\nA global community of over 50,000 physicists.\n\nFor more information, visit the APS Membership page."
-  },
-  {
-    "objectID": "Resources/resources.html#aps-publications",
-    "href": "Resources/resources.html#aps-publications",
-    "title": "Resources",
-    "section": "📚 APS Publications",
-    "text": "📚 APS Publications\nAPS provides several outstanding resources for staying informed about advances in physics, for example:\n\nPhysics Today — General-interest magazine covering news and features across all fields of physics.\n\nPhysical Review Letters (PRL) — One of the most prestigious journals in physics.\n\nPhysics Magazine — APS’s online magazine featuring research highlights and accessible summaries of recent publications."
-  },
-  {
-    "objectID": "Resources/resources.html#travel-grants-student-fellowships",
-    "href": "Resources/resources.html#travel-grants-student-fellowships",
-    "title": "Resources",
-    "section": "✈️ Travel Grants & Student Fellowships",
-    "text": "✈️ Travel Grants & Student Fellowships\nAPS supports student researchers through travel grants, fellowships, and prizes. These programs aim to promote international collaboration and help students attend major APS meetings.\nExamples include:\n\nAPS International Travel Awards for Students\nAPS Division-specific travel grants (e.g., DMP, DAMOP)\nAPS Forum on International Physics (FIP) Student Travel Grants\n\nYou can explore available opportunities at the APS Funding & Recognition page."
-  },
-  {
-    "objectID": "Resources/resources.html#useful-links",
-    "href": "Resources/resources.html#useful-links",
-    "title": "Resources",
-    "section": "🔗 Useful Links",
-    "text": "🔗 Useful Links\n\n\n\nResource\nDescription\n\n\n\n\nAPS Student Ambassadors\nLearn about the ambassador program and connect with student leaders worldwide.\n\n\nAPS Career Center\nExplore job listings, internships, and professional development resources.\n\n\nAPS Global Physics Summit\nOne of the largest annual gatherings of physicists — showcasing research across all areas of physics.\n\n\n\nStay engaged with the APS community and make the most of the opportunities available to you as a student or researcher."
+    "text": "Welcome to APS@Paris! This platform connects the Sorbonne University and other Parisian institutions with the American Physical Society (APS) community.\nStay tuned for upcoming events, research highlights, and opportunities to engage with the global physics network. If you’re interested in joining our mailing list or participating in future APS activities, feel free to explore the site or reach out via the contact page."
   },
   {
     "objectID": "Contact/contact.html",
@@ -70,10 +70,52 @@
     "text": "Email\nFor questions or collaboration, feel free to reach out at aps.at.paris@gmail.com"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to APS@Paris",
+    "objectID": "Resources/resources.html",
+    "href": "Resources/resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Welcome to APS@Paris! This platform connects the Sorbonne University and other Parisian institutions with the American Physical Society (APS) community.\nStay tuned for upcoming events, research highlights, and opportunities to engage with the global physics network. If you’re interested in joining our mailing list or participating in future APS activities, feel free to explore the site or reach out via the contact page."
+    "text": "Explore long-term resources, programs, and official links from the APS. These materials provide ongoing benefits, membership information, and professional development opportunities for students and researchers."
+  },
+  {
+    "objectID": "Resources/resources.html#membership-benefits",
+    "href": "Resources/resources.html#membership-benefits",
+    "title": "Resources",
+    "section": "🧾 Membership Benefits",
+    "text": "🧾 Membership Benefits\nBeing an APS member gives you access to:\n\nSubscriptions to leading journals and magazines.\nDiscounted registration for APS conferences.\nOpportunities for travel grants and international collaboration.\nAccess to APS Career Services and mentorship programs.\nA global community of over 50,000 physicists.\n\nRelated Documents:\n\nStudent Membership Brochure (PDF)\nMembership Recruitment 2025 (PDF)\n\nFor more information, visit the APS Membership page."
+  },
+  {
+    "objectID": "Resources/resources.html#aps-publications",
+    "href": "Resources/resources.html#aps-publications",
+    "title": "Resources",
+    "section": "📚 APS Publications",
+    "text": "📚 APS Publications\nAPS provides several outstanding resources for staying informed about advances in physics, for example:\n\nPhysics Today — General-interest magazine covering news and features across all fields of physics.\n\nPhysical Review Letters (PRL) — One of the most prestigious journals in physics.\n\nPhysics Magazine — APS’s online magazine featuring research highlights and accessible summaries of recent publications."
+  },
+  {
+    "objectID": "Resources/resources.html#travel-grants-student-fellowships",
+    "href": "Resources/resources.html#travel-grants-student-fellowships",
+    "title": "Resources",
+    "section": "✈️ Travel Grants & Student Fellowships",
+    "text": "✈️ Travel Grants & Student Fellowships\nAPS supports student researchers through travel grants, fellowships, and prizes. These programs aim to promote international collaboration and help students attend major APS meetings.\nExamples include:\n\nAPS International Travel Awards for Students\nAPS Division-specific travel grants (e.g., DMP, DAMOP)\nAPS Forum on International Physics (FIP) Student Travel Grants\n\nYou can explore available opportunities at the APS Funding & Recognition page."
+  },
+  {
+    "objectID": "Resources/resources.html#useful-links",
+    "href": "Resources/resources.html#useful-links",
+    "title": "Resources",
+    "section": "🔗 Useful Links",
+    "text": "🔗 Useful Links\n\n\n\nResource\nDescription\n\n\n\n\nAPS Student Ambassadors\nLearn about the ambassador program and connect with student leaders worldwide.\n\n\nAPS Career Center\nExplore job listings, internships, and professional development resources.\n\n\nAPS Global Physics Summit\nOne of the largest annual gatherings of physicists — showcasing research across all areas of physics.\n\n\n\nStay engaged with the APS community and make the most of the opportunities available to you as a student or researcher."
+  },
+  {
+    "objectID": "News/news.html",
+    "href": "News/news.html",
+    "title": "News",
+    "section": "",
+    "text": "Discover the latest updates from the APS community — including announcements, opportunities, and upcoming events. These announcements are time-sensitive and may vary by year."
+  },
+  {
+    "objectID": "News/news.html#travel-grants",
+    "href": "News/news.html#travel-grants",
+    "title": "News",
+    "section": "Travel Grants",
+    "text": "Travel Grants\n\nDCP New Investigator Travel Awards\nDeadline: October 27, 2025\nAwards for up to $500 in travel reimbursement are available for junior investigators who plan to present a paper at a DCP-sponsored symposium at the APS Global Physics Summit.\nLearn more\n\n\nDAP Student Travel Grants\nDeadline: October 27, 2025 DAP members can receive up to $500 for travel-related expenses for DAP-sponsored sessions, and up to $250 in grants for co-sponsored sessions.\nLearn more\n\n\nDCMP Graduate Student Travel Awards\nOctober 27, 2025\nDCMP will award up to twenty graduate student members awards of $800.00 to support participation in the APS Global Physics Summit. Applicants must be presenting a contributed or invited talk in a DCMP symposium.\nLearn more\n\n\nDMP Ovshinsky Student Travel Awards\nDeadline: October 27, 2025 DMP is supporting multiple travel awards for $750 to enable students to participate in the APS Global Physics Summit sessions. These awards are named after Stanford and Iris Ovshinsky, who had a very strong interest and commitment to scientific education.\nLearn more\n\n\nDPF Student Travel Grant\nDeadline: November 15, 2025 DMP is supporting travel awards of up to $500 to enable students to attend the APS Global Physics Summit. Awards are only available to members of DPF who are presenting a paper or poster in-person at the conference.\nLearn more\n\n\nDPOLY Chang Yeol Ryu Travel Fund\nDeadline: October 31, 2025 Chang Yeol Ryu was an enthusiastic attendee of the APS March Meetings and participant in DPOLY sessions. To honor him, DPOLY and APS provide two $1,000 awards to support travel by students attending the APS March Meeting for the first time and presenting their research.\nLearn more\n\n\nDPOLY Frank J. Padden, Jr. Award\nDeadline: October 23, 2025 Frank J. Padden, Jr. was a distinguished polymer physics researcher and an active member of the APS DPOLY. In recognition of his caring mentorship of young scientists, DPOLY established this award in his honor to recognize a graduate student for excellence in polymer physics research.\nLearn more\n\n\nFIP Distinguished Student Program\nDeadline: October 27, 2025 The Forum on International Physics is offering travel awards of up to $2500 for non-US Citizens to attend the Global Physics Summit. The Distinguished Student Program will include the Esther Hoffman Beller Distinguished Student Travel Award and the Robert E. Marshak Distinguished Student Travel Award.\nLearn more\n\n\nFGSA Underrepresented Minority Student Awards\nDeadline: November 2, 2025 The Forum on Graduate Student affairs is offering travel awards of up to $500 for domestic students and up to $1000 for international students to attend the Global Physics Summit. The goal of the award is to support students members belonging to groups traditionally underrepresented in physics.\nLearn more\n\n\nFGSA Travel Award for Excellence in Graduate Research\nDeadline: November 2, 2025 The Forum on Graduate Student affairs is offering travel awards of up to $500 for domestic students and up to $1000 for international students to attend the Global Physics Summit. The goal of the award is to recognize graduate students who have made noteworthy progress in their academic careers.\nLearn more\n\n\nFGSA First Time Conference Participant Travel Award\nDeadline: November 2, 2025 The Forum on Graduate Student affairs is offering travel awards of up to $500 for domestic students and up to $1000 for international students to attend the Global Physics Summit. The goal of the award is to provide assistance to applicants who are attending their first APS Meeting, which is often the most impactful and meaningful in a young student’s career.\nLearn more\n\n\nGFB Travel Awards\nDeadline: November 2, 2025 The Topical Group on Few-Body Systems and Multi-Particle Dynamics is offering travel awards of $650 for PhD students to attend either the Global Physics Summit or the DAMOP Meeting. To be eligible, both the applicant and their advisor must be members of GFB.\nLearn more\n\n\nGFB Outstanding Dissertation Award\nDeadline: November 9, 2025 The Topical Group on Few-Body Systems and Multi-Particle Dynamics is offering a $1,500 stipend, a unit-level certificate, up to $1,000 in travel reimbursement, and a registration waiver for Global Physics Summit. The award is intended to recognizes outstanding early-career scientists who have performed original research in the area of Few-Body Systems and Multi-Particle Dynamics.\nLearn more\n\n\nDBIO Travel Awards\nDeadline: November 17, 2025 The Division of Biological Physics is offering travel awards of up to $400 to support attendance at the Global Physics Summit. This award welcomes applications from DBIO members at all early career stages.\nLearn more\n\n\nGMAG Student Travel Award\nDeadline: November 17, 2025 The Topical Group on Magnetism is offering travel awards of up to $500 for domestic students and up to $700 for international students to support attendance at the Global Physics Summit. The selected students are expected to attend the GMAG business meeting and to provide a degree of assistance at the GMAG membership table.\nLearn more\n\n\nGPC Student Investigator Prize\nDeadline: November 23, 2025 The GPC Student Prize will be given to a graduate student member of APS who is pursuing work related to the GPC mission. It will help defray the costs of attending and participating in a GPC related session at the March Meeting (up to $1000 per award).\nLearn More\n\n\nGMED Student Travel Award\nDeadline: December 8, 2025 To increase student involvement in GMED and in the APS as a whole, GMED will sponsor up to three awards of up to $450 in travel costs for attending the yearly APS Global Physics Summit. Awardees will meet with GMED Executive Committee members, and may also be given the opportunity to assist at the GMED membership table and the “Contact Congress” booth, promoting outreach for congressional support for scientific research.\nLearn More\n\n\nDSOFT Student Travel Awards\nDeadline: &lt;60 Days before travel Abstract Deadline: October 23 DSOFT is offering a select number of awards to cover registration and membership fees for current DSOFT student members (and those wishing to join) who are presenting their research in-person at the Global Physics Summit. Students must have submitted an abstract to present at GPS before applying for a travel award.\nLearn more\n\n\nDSOFT Emerging Soft Matter Excellence (ESME) Award\nDeadline: October 16, 2025 The DSOFT Emerging Soft Matter Excellence (ESME) Award recognizes an exceptional graduate student pursuing research in soft matter physics. The DSOFT ESME committee will select 12 finalists who will be invited to give a talk at the 2026 APS Global Physics Summit. This award includes a $250 honorarium.\nLearn more Apply\n\n\nDGRAV Student Travel Grant\nDeadline: December, 2025 DGrav is supporting travel awards of up to $600 to enable students to attend the APS Global Physics Summit. Awards are only available to members of DGRAV who are presenting a paper or poster at the conference.\nLearn more\n\n\nDSNP Student Speaker Award\nDeadline: October 13, 2025 Up to five (5) DSNP members currently pursuing a PhD will be selected as finalists and provided with up to $500 in travel reimbursement. The first-place winner will receive an additional $500 stipend award.\nLearn more\n\n\nDPOLY Undergraduate Travel Award\nDeadline: October 10, 2025 DPOLY will award up to $2000 to an undergraduate student doing research in the area of polymer physics and attending the APS Global Physics Summit for the first time. This award can be applied to reasonable costs associated with registration, travel, and accommodations for the APS Global Physics Summit.\nLearn more"
   }
 ]

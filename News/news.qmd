@@ -2,38 +2,140 @@
 title: "News"
 ---
 
-## Latest from APS
+Discover the latest updates from the APS community — including announcements, opportunities, and upcoming events. These announcements are time-sensitive and may vary by year.
 
-Stay connected with updates from the American Physical Society (APS) on their official social media platforms.
+## Travel Grants
 
----
+### DCP New Investigator Travel Awards  
+**Deadline: October 27, 2025**  
+Awards for up to $500 in travel reimbursement are available for junior investigators who plan to present a paper at a DCP-sponsored symposium at the APS Global Physics Summit.
 
-### 🕊️ X (Twitter)
+[Learn more](https://engage.aps.org/dcp/honors/prizes-awards/travel-awards)
 
-<a class="twitter-timeline" href="https://twitter.com/APSphysics?ref_src=twsrc%5Etfw">Tweets by APSphysics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### DAP Student Travel Grants  
+**Deadline: October 27, 2025**
+DAP members can receive up to $500 for travel-related expenses for DAP-sponsored sessions, and up to $250 in grants for co-sponsored sessions.
 
----
+[Learn more](https://engage.aps.org/dap/honors/prizes-awards/student-travel)
 
-### 📺 YouTube
-<iframe width="100%" height="400" src="https://www.youtube.com/embed?listType=user_uploads&list=APSphysics" frameborder="0" allowfullscreen></iframe>
+### DCMP Graduate Student Travel Awards 
+**October 27, 2025**  
+DCMP will award up to twenty graduate student members awards of $800.00 to support participation in the APS Global Physics Summit. Applicants must be presenting a contributed or invited talk in a DCMP symposium.
 
----
+[Learn more](https://engage.aps.org/dcmp/honors/prizes-awards/student-travel-awards)
 
-### 💼 LinkedIn
-Stay connected with APS on LinkedIn:  
-<a href="https://www.linkedin.com/company/aps-physics/" target="_blank" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" style="vertical-align:middle; margin-right:10px;">
-  <strong>APS on LinkedIn</strong>
-</a>
+### DMP Ovshinsky Student Travel Awards
+**Deadline: October 27, 2025**
+DMP is supporting multiple travel awards for $750  to enable students to participate in the APS Global Physics Summit sessions. These awards are named after Stanford and Iris Ovshinsky, who had a very strong interest and commitment to scientific education. 
 
----
+[Learn more](https://engage.aps.org/dmp/honors/prizes-awards/student-travel-awards)
 
-### 📸 Instagram
-<iframe src="https://www.instagram.com/aps.physics/embed" width="100%" height="600" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+### DPF Student Travel Grant
+**Deadline: November 15, 2025**
+DMP is supporting travel awards of up to $500 to enable students to attend the APS Global Physics Summit. Awards are only available to members of DPF who are presenting a paper or poster in-person at the conference.
 
----
+[Learn more](https://engage.aps.org/dpf/honors/prizes-awards/grants-global-summit)
 
-### 📘 Facebook
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fapsphysics&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true" width="100%" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+### DPOLY Chang Yeol Ryu Travel Fund
+**Deadline: October 31, 2025**
+Chang Yeol Ryu was an enthusiastic attendee of the APS March Meetings and participant in DPOLY sessions. To honor him, DPOLY and APS provide two $1,000 awards to support travel by students attending the APS March Meeting for the first time and presenting their research.
 
----
+[Learn more](https://engage.aps.org/dpoly/honors/prizes-awards/chang-yeol-ryu-travel-fund)
+
+### DPOLY Frank J. Padden, Jr. Award
+**Deadline: October 23, 2025**
+Frank J. Padden, Jr. was a distinguished polymer physics researcher and an active member of the APS DPOLY. In recognition of his caring mentorship of young scientists, DPOLY established this award in his honor to recognize a graduate student for excellence in polymer physics research. 
+
+[Learn more](https://engage.aps.org/dpoly/honors/prizes-awards/frank-padden-award)
+
+### FIP Distinguished Student Program
+**Deadline: October 27, 2025**
+The Forum on International Physics is offering travel awards of up to $2500 for non-US Citizens to attend the Global Physics Summit. The Distinguished Student Program will include the Esther Hoffman Beller Distinguished Student Travel Award and the Robert E. Marshak Distinguished Student Travel Award.
+
+[Learn more](https://engage.aps.org/fip/honors/prizes-awards/ds-program)
+
+### FGSA Underrepresented Minority Student Awards
+**Deadline: November 2, 2025**
+The Forum on Graduate Student affairs is offering travel awards of up to $500 for domestic students and up to $1000 for international students to attend the Global Physics Summit. The goal of the award is to support students members belonging to groups traditionally underrepresented in physics.
+
+[Learn more](https://engage.aps.org/fgsa/honors/prizes-awards)
+
+### FGSA Travel Award for Excellence in Graduate Research
+**Deadline: November 2, 2025**
+The Forum on Graduate Student affairs is offering travel awards of up to $500 for domestic students and up to $1000 for international students to attend the Global Physics Summit. The goal of the award is to recognize graduate students who have made noteworthy progress in their academic careers.
+
+[Learn more](https://engage.aps.org/fgsa/honors/prizes-awards)
+
+### FGSA First Time Conference Participant Travel Award
+**Deadline: November 2, 2025**
+The Forum on Graduate Student affairs is offering travel awards of up to $500 for domestic students and up to $1000 for international students to attend the Global Physics Summit. The goal of the award is to provide assistance to applicants who are attending their first APS Meeting, which is often the most impactful and meaningful in a young student’s career. 
+
+[Learn more](https://engage.aps.org/fgsa/honors/prizes-awards)
+
+### GFB Travel Awards
+**Deadline: November 2, 2025**
+The Topical Group on Few-Body Systems and Multi-Particle Dynamics is offering travel awards of $650 for PhD students to attend either the Global Physics Summit or the DAMOP Meeting. To be eligible, both the applicant and their advisor must be members of GFB.
+
+[Learn more](https://engage.aps.org/gfb/honors/prizes-awards/gfb-travel-awards)
+
+### GFB Outstanding Dissertation Award
+**Deadline: November 9, 2025**
+The Topical Group on Few-Body Systems and Multi-Particle Dynamics is offering a $1,500 stipend, a unit-level certificate, up to $1,000 in travel reimbursement, and a registration waiver for Global Physics Summit. The award is intended to recognizes outstanding early-career scientists who have performed original research in the area of Few-Body Systems and Multi-Particle Dynamics.
+
+[Learn more](https://engage.aps.org/gfb/honors/prizes-awards/gfb-travel-awards)
+
+### DBIO Travel Awards
+**Deadline: November 17, 2025**
+The Division of Biological Physics is offering travel awards of up to $400 to support attendance at the Global Physics Summit. This award welcomes applications from DBIO members at all early career stages.
+
+[Learn more](https://engage.aps.org/dbio/honors/prizes-awards/travel-grants)
+
+### GMAG Student Travel Award
+**Deadline: November 17, 2025**
+The Topical Group on Magnetism is offering travel awards of up to $500 for domestic students and up to $700 for international students to support attendance at the Global Physics Summit. The selected students are expected to attend the GMAG business meeting and to provide a degree of assistance at the GMAG membership table. 
+
+[Learn more](https://engage.aps.org/gmag/honors/prizes-awards/student-travel-award)
+
+### GPC Student Investigator Prize
+**Deadline: November 23, 2025**
+The GPC Student Prize will be given to a graduate student member of APS who is pursuing work related to the GPC mission. It will help defray the costs of attending and participating in a GPC related session at the March Meeting (up to $1000 per award).
+
+[Learn More](https://engage.aps.org/gpc/honors/prizes-awards)
+
+### GMED Student Travel Award
+**Deadline: December 8, 2025**
+To increase student involvement in GMED and in the APS as a whole, GMED will sponsor up to three awards of up to $450 in travel costs for attending the yearly APS Global Physics Summit. Awardees will meet with GMED Executive Committee members, and may also be given the opportunity to assist at the GMED membership table and the “Contact Congress” booth, promoting outreach for congressional support for scientific research.
+
+[Learn More](https://engage.aps.org/gmed/honors/prizes-awards)
+
+### DSOFT Student Travel Awards
+**Deadline: <60 Days before travel**
+**Abstract Deadline: October 23**
+DSOFT is offering a select number of awards to cover registration and membership fees for current DSOFT student members (and those wishing to join) who are presenting their research in-person at the Global Physics Summit. Students must have submitted an abstract to present at GPS before applying for a travel award.
+
+[Learn more](<https://forms.aps.org/t/uz9uw5Ur1kus>)
+
+### DSOFT Emerging Soft Matter Excellence (ESME) Award
+**Deadline: October 16, 2025**
+The DSOFT Emerging Soft Matter Excellence (ESME) Award recognizes an exceptional graduate student pursuing research in soft matter physics. The DSOFT ESME committee will select 12 finalists who will be invited to give a talk at the 2026 APS Global Physics Summit. This award includes a $250 honorarium.
+
+[Learn more](<https://engage.aps.org/dsoft/honors/esme-award>)
+[Apply](<https://forms.aps.org/t/sjijYjQxeius>)
+
+### DGRAV Student Travel Grant
+**Deadline: December, 2025**
+DGrav is supporting travel awards of up to $600 to enable students to attend the APS Global Physics Summit. Awards are only available to members of DGRAV who are presenting a paper or poster at the conference.
+
+[Learn more](https://engage.aps.org/dgrav/honors/prizes-awards/travel-grants)
+
+### DSNP Student Speaker Award
+**Deadline: October 13, 2025**
+Up to five (5) DSNP members currently pursuing a PhD will be selected as finalists and provided with up to $500 in travel reimbursement. The first-place winner will receive an additional $500 stipend award.
+
+[Learn more](https://engage.aps.org/dsnp/honors/prizes-awards/student-speaker)
+
+### DPOLY Undergraduate Travel Award
+**Deadline: October 10, 2025**
+DPOLY will award up to $2000 to an undergraduate student doing research in the area of polymer physics and attending the APS Global Physics Summit for the first time. This award can be applied to reasonable costs associated with registration, travel, and accommodations for the APS Global Physics Summit.
+
+[Learn more](https://engage.aps.org/dpoly/honors/prizes-awards/undergraduate-travel)

@@ -1,0 +1,24 @@
+---
+title: "APS on Social Media"
+---
+
+Stay connected with updates from the APS on their official social media platforms.
+
+## X
+
+<a class="twitter-timeline" href="https://twitter.com/APSphysics?ref_src=twsrc%5Etfw">Tweets by APS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## LinkedIn  
+<a href="https://www.linkedin.com/company/aps-physics/" target="_blank" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" style="vertical-align:middle; margin-right:10px;">
+  <strong>APS on LinkedIn</strong>
+</a>
+
+## Instagram
+<iframe src="https://www.instagram.com/aps.physics/embed" width="100%" height="600" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
+## Facebook
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fapsphysics&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true" width="100%" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+## YouTube
+<iframe width="100%" height="400" src="https://www.youtube.com/embed?listType=user_uploads&list=APSphysics" frameborder="0" allowfullscreen></iframe>

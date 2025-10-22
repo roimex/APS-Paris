@@ -10,12 +10,15 @@ website:
     right:
       - text: "Home"
         href: index.qmd
+
+      - text: "Resources"
+        href: Resources/resources.qmd
       
       - text: "News"
         href: News/news.qmd
 
-      - text: "Resources"
-        href: Resources/resources.qmd
+      - text: "Connect"
+        href: Connect/connect.qmd
 
       - text: "Contact"
         href: Contact/contact.qmd

@@ -2,7 +2,7 @@
 title: "Resources"
 ---
  
-Here you can find key materials, opportunities, and official links from the American Physical Society (APS).
+Explore long-term resources, programs, and official links from the APS. These materials provide ongoing benefits, membership information, and professional development opportunities for students and researchers.
 
 ## 🧾 Membership Benefits
 
@@ -13,6 +13,11 @@ Being an APS member gives you access to:
 - Opportunities for travel grants and international collaboration.
 - Access to APS Career Services and mentorship programs.
 - A global community of over 50,000 physicists.
+
+Related Documents:
+
+- [Student Membership Brochure (PDF)](25116%20Student%20Membership%20Brochure.pdf)
+- [Membership Recruitment 2025 (PDF)](Membership%20Recruitment%202025.pdf)
 
 For more information, visit the [APS Membership page](https://www.aps.org/membership/).
 
