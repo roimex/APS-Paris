@@ -4,7 +4,7 @@ title: "Resources"
  
 Explore long-term resources, programs, and official links from the APS. These materials provide ongoing benefits, membership information, and professional development opportunities for students and researchers.
 
-## 🧾 Membership Benefits
+## Membership Benefits
 
 Being an APS member gives you access to:
 
@@ -21,7 +21,7 @@ Related Documents:
 
 For more information, visit the [APS Membership page](https://www.aps.org/membership/).
 
-## 📚 APS Publications
+## APS Publications
 
 APS provides several outstanding resources for staying informed about advances in physics, for example:
 
@@ -29,7 +29,7 @@ APS provides several outstanding resources for staying informed about advances i
 - **[Physical Review Letters (PRL)](https://journals.aps.org/prl/)** — One of the most prestigious journals in physics.  
 - **[Physics Magazine](https://physics.aps.org/)** — APS’s online magazine featuring research highlights and accessible summaries of recent publications.  
 
-## ✈️ Travel Grants & Student Fellowships
+## Travel Grants & Student Fellowships
 
 APS supports student researchers through travel grants, fellowships, and prizes. These programs aim to promote international collaboration and help students attend major APS meetings.
 
@@ -41,7 +41,7 @@ Examples include:
 
 You can explore available opportunities at the [APS Funding & Recognition page](https://www.aps.org/funding-recognition).
 
-## 🔗 Useful Links
+## Useful Links
 
 | Resource | Description |
 |-----------|--------------|
