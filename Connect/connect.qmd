@@ -6,7 +6,15 @@ Stay connected with updates from the APS on their official social media platform
 
 ## X
 
-<a class="twitter-timeline" href="https://twitter.com/APSphysics?ref_src=twsrc%5Etfw">Tweets by APS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" 
+   href="https://x.com/APSphysics"
+   target="_blank" 
+   data-width="500" 
+   data-height="600">
+   Tweets by APS
+</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## LinkedIn  
 <a href="https://www.linkedin.com/company/aps-physics/" target="_blank" style="text-decoration:none;">
